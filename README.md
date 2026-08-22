@@ -1,4 +1,4 @@
-# AWS VPC Setup with Load Balancer — Secure Flask App Deployment
+# AWS VPC Setup with Load Balancer  Secure Flask App Deployment
 
 A hands-on DevOps project demonstrating a **production-style, secure AWS network architecture** with public/private subnet isolation, a Bastion Host for admin access, and an Application Load Balancer (ALB) exposing a private Flask application to the internet.
 
