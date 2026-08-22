@@ -4,7 +4,7 @@ Complete step-by-step guide with explanations, commands, and troubleshooting —
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Content
 
 1. [Project Overview](#project-overview)
 2. [Architecture Diagram](#architecture-diagram)
